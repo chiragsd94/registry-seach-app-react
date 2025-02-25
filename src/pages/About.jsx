@@ -73,6 +73,20 @@ const About = () => {
         as the data source to fetch package details dynamically.
       </p>
 
+      <h2>⚠️ Disclaimer:</h2>
+      <p>
+        I am <strong>not liable</strong> for any <strong>copyright issues</strong> or any other legal concerns arising from the use of this project.
+        This app simply fetches publicly available data from the{" "}
+        <strong>
+          <a
+            href="https://registry.npmjs.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            NPM Registry API
+          </a>
+        </strong>, and all package details belong to their respective owners.
+      </p>
       <p>
         This project follows best practices, ensuring smooth navigation and a
         clean user experience. 🚀
