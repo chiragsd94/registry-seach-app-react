@@ -22,5 +22,9 @@ This application allows users to search for npm packages and retrieve their deta
 ## 📡 Data Source:
 
 This project uses the **[NPM Registry API](https://registry.npmjs.org/)** as the data source to fetch package details dynamically.
+## ⚠️ Disclaimer:
+I am **not liable** for any **copyright issues** or any other legal concerns arising from the use of this project.  
+This app simply fetches publicly available data from the **NPM Registry API**, and all package details belong to their respective owners.
+
 
 This project follows best practices, ensuring smooth navigation and a clean user experience. 🚀
